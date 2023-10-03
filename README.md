@@ -16,15 +16,15 @@ O projeto consiste em um sistema bancario que faz as operações bancarias neces
 
 ## :ladder: Fucionalidades do Projeto
 
-Criar conta bancária
-Listar contas bancárias
-Atualizar os dados do usuário da conta bancária
-Excluir uma conta bancária
-Depósitar em uma conta bancária
-Sacar de uma conta bancária
-Transferir valores entre contas bancárias
-Consultar saldo da conta bancária
-Emitir extrato bancário
+- Criar conta bancária
+- Listar contas bancárias
+- Atualizar os dados do usuário da conta bancária
+- Excluir uma conta bancária
+- Depósitar em uma conta bancária
+- Sacar de uma conta bancária
+- Transferir valores entre contas bancárias
+- Consultar saldo da conta bancária
+- Emitir extrato bancário
 
 ## :triangular_flag_on_post: Contribua com o projeto
 
