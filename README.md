@@ -71,11 +71,4 @@ npm run dev
 
 [Documentação swagger](https://swagger.io/)
 
-## :technologist: Contribuidores
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/ericamcastroo" alt=""/><br /><sub><b>Jess</b></sub></a><br /></td>
-    
-  </tr>
-</table>
