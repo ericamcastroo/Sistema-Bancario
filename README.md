@@ -5,15 +5,7 @@
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a CUBOS. Sua primeira tarefa como desenvolvedor é criar uma API para um Banco Digital. Esse será um projeto piloto, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
 Seu papel é construir uma RESTful API que permita:
 
-Criar conta bancária
-Listar contas bancárias
-Atualizar os dados do usuário da conta bancária
-Excluir uma conta bancária
-Depósitar em uma conta bancária
-Sacar de uma conta bancária
-Transferir valores entre contas bancárias
-Consultar saldo da conta bancária
-Emitir extrato bancário
+
   </p>
 
 [Acesse o projeto em produção](https://github.com/ericamcastroo/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t09/)
@@ -24,16 +16,15 @@ Emitir extrato bancário
 
 ## :ladder: Fucionalidades do Projeto
 
-- [x] Funcionalidade 1
-  - [x] Item 1
-  - [x] Item 2
-- [x] Funcionalidade 2
-- [x] Funcionalidade 3
-- [ ] Funcionalidade 4
-- [ ] Funcionalidade 5
-  - [x] Item 1
-  - [ ] Item 1
-  - [ ] Item 1
+Criar conta bancária
+Listar contas bancárias
+Atualizar os dados do usuário da conta bancária
+Excluir uma conta bancária
+Depósitar em uma conta bancária
+Sacar de uma conta bancária
+Transferir valores entre contas bancárias
+Consultar saldo da conta bancária
+Emitir extrato bancário
 
 ## :triangular_flag_on_post: Contribua com o projeto
 
