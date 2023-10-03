@@ -1,5 +1,34 @@
 # Sistema-Bancario
 
+<img src="../images/haze-programmer-writing-code-on-laptop-1.png" width="200px" align="right" >
+  <p align="left">
+Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a CUBOS. Sua primeira tarefa como desenvolvedor é criar uma API para um Banco Digital. Esse será um projeto piloto, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
+Seu papel é construir uma RESTful API que permita:
+
+Criar conta bancária
+Listar contas bancárias
+Atualizar os dados do usuário da conta bancária
+Excluir uma conta bancária
+Depósitar em uma conta bancária
+Sacar de uma conta bancária
+Transferir valores entre contas bancárias
+Consultar saldo da conta bancária
+Emitir extrato bancário
+  </p>
+
+[Acesse o projeto em produção](https://github.com/ericamcastroo/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t09/)
+
+## :man_mechanic: Linguagens e Ferramentas
+
+![Skills](https://skillicons.dev/icons?i=nodejs,js,express)
+
+## :ladder: Fucionalidades do Projeto
+
+- [x] Funcionalidade 1
+  - [x] Item 1
+  - [x] Item 2
+- [x] Funcionalidade 2
+- [x] Funcionalidade 3
 - [ ] Funcionalidade 4
 - [ ] Funcionalidade 5
   - [x] Item 1
@@ -46,7 +75,7 @@ npm run dev
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ericamcastroo"><img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px;" alt=""/><br /><sub><b>Jess</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ericamcastroo" alt=""/><br /><sub><b>Jess</b></sub></a><br /></td>
     
   </tr>
 </table>
