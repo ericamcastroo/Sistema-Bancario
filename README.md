@@ -2,8 +2,8 @@
 
 <img src="../images/haze-programmer-writing-code-on-laptop-1.png" width="200px" align="right" >
   <p align="left">
-Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a CUBOS. Sua primeira tarefa como desenvolvedor é criar uma API para um Banco Digital. Esse será um projeto piloto, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
-Seu papel é construir uma RESTful API que permita:
+Criação de uma API para um Banco Digital. Esse será um projeto piloto, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
+O projeto consiste em um sistema bancario que faz as operações bancarias necessarias para o desenvolvimento de um Banco digital.
 
 
   </p>
@@ -61,5 +61,6 @@ npm run dev
 ![Documentação swagger](https://i.imgur.com/BpjcHZ8.png)
 
 [Documentação swagger](https://swagger.io/)
+
 
 
